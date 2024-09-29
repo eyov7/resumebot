@@ -1,0 +1,8 @@
+# Ignore .env file
+.env
+
+# You can also ignore other files and directories if needed
+# For example:
+node_modules/
+venv/
+__pycache__/
